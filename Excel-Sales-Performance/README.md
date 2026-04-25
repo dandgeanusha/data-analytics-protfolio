@@ -13,3 +13,4 @@ Data was cleaned and organized, then analyzed using pivot tables and charts.
 - Found regions with highest revenue
 
 ## Files
+[Excel Data Analytics Salesperformance project.xlsx](https://github.com/user-attachments/files/27080311/Excel.Data.Analytics.Salesperformance.project.xlsx)
