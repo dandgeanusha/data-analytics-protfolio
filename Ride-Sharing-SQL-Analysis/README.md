@@ -124,3 +124,5 @@ ON d.driver_name = r.driver_name
 GROUP BY d.driver_name
 ORDER BY total_earnings DESC
 LIMIT 5;
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/195c1a4e-168b-4284-89a3-0ada3cd6d0bb" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/fb35506e-9436-4644-903a-2ea657dbbd5d" />
