@@ -42,4 +42,4 @@ Used SQL queries to analyze ride-sharing data and extract business insights.
 ## 📬 Contact
 - 📧 Email: anushadandge0603@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/dandgeanusha
-- 📄 Resume: https://docs.google.com/document/d/1Ju2HXneO3OI3c36I4mXQMNzbHG5GlmzI/edit
+- 📄 Resume: https://docs.google.com/document/d/14oPedHfOSJM616CNG3rOK61sRLiSWUdG/edit
